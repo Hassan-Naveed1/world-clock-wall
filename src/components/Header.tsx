@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header className="site-header">
-      <a href="/" className="brand">
+      <a href={import.meta.env.BASE_URL} className="brand">
         <span className="brand-icon">◷</span>
         <span>WORLD<span className="brand-highlight">CLOCK</span></span>
       </a>
