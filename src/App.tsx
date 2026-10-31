@@ -306,10 +306,11 @@ function App() {
         )}
       </section>
 
-      <footer className="site-footer">
-        <span>WORLD CLOCK WALL</span>
-        <span>TIME CONNECTS US ALL.</span>
-      </footer>
+    <footer className="site-footer">
+      <span>WORLD CLOCK WALL</span>
+      <span>TIME CONNECTS US ALL.</span>
+      <span>© 2026 Hassan Naveed. All rights reserved.</span>
+    </footer>
     </main>
   )
 }
